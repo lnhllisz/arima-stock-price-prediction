@@ -1,4 +1,4 @@
-# arima-stock-price-prediction
+# arimax-stock-price-prediction
 **Data Preparation**
 
 The dataset collected consists of six different Vietnamese stocks: ANV, DAT, HAH, KDC, NAF, and PVT. The selected features used for training the model include:
